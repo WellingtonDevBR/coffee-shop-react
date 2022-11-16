@@ -1,0 +1,13 @@
+{
+  "trailingComma": "all",
+  "editor.formatOnSave": true,
+  "semi": false,
+  "singleQuote": true,
+  "endOfLine": "auto",
+  "prettier/prettier": [
+    "error",
+    {
+      "endOfLine": "auto"
+    }
+  ]
+}
